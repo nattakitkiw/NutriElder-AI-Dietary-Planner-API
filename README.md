@@ -269,8 +269,3 @@ This project generates AI-powered dietary recommendations for **informational an
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-<p align="center">
-  Made with ❤️ for the elderly community<br/>
-  <strong>OpenAI Codex × AIAT Hackathon 2025</strong>
-</p>
