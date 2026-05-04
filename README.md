@@ -60,7 +60,7 @@ NutriElder-AI-Dietary-Planner-API/
 │   └── services/
 │       ├── __init__.py
 │       └── openai_service.py    # OpenAI Structured Outputs integration
-├── .env.example                 # Environment variable template
+├── .env                         # Environment variable template
 ├── .gitignore                   # Python gitignore
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
